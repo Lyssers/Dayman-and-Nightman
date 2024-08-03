@@ -1,0 +1,3 @@
+#!/bin/bash
+light -S 0.05
+redshift -O 2500
